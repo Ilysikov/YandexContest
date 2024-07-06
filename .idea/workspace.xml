@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1fe5d9-b438-482b-8818-3e7f9328101c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/YandexContest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/1(A)A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/1(A)B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/1(A)C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/1(B)D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/2(B)A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/1(A)A.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/1(A)B.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/1(A)C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/1(B)D.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/docs/2(B)A.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../YandexContest/yandex_litter/yandex_test_1.py" afterDir="false" />
+    <list default="true" id="2f1fe5d9-b438-482b-8818-3e7f9328101c" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/../YandexContest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../YandexContest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YandexContest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../YandexContest/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +33,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ivanlysikov/PycharmProjects/YandexContest"
+    "last_opened_file_path": "/Users/ivanlysikov/PycharmProjects/YandexContest/2(B)A"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../YandexContest" />
+      <recent name="$PROJECT_DIR$/../YandexContest/2(B)A" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(B)D" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)C" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)B" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)A" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../YandexContest/docs" />
-      <recent name="$PROJECT_DIR$/../YandexContest/yandex_litter" />
-      <recent name="$PROJECT_DIR$/../YandexContest" />
+      <recent name="$PROJECT_DIR$/../YandexContest/2(B)A" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(B)D" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)C" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)B" />
+      <recent name="$PROJECT_DIR$/../YandexContest/1(A)A" />
     </key>
   </component>
   <component name="RunManager">
@@ -206,6 +194,23 @@
       <option name="presentableId" value="Default" />
       <updated>1719945805399</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1720291116806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720291116806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1720291493863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720291493863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +223,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

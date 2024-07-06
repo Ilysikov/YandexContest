@@ -1,2 +1,2 @@
-![](https://github.com/Ilysikov/TinkoffContest/blob/Hey/photo/ex3.jpg)
+![](https://github.com/Ilysikov/YandexContest/blob/master/docs/2(B)A.jpg)
 
