@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f1fe5d9-b438-482b-8818-3e7f9328101c" name="Changes" comment="first">
-      <change beforePath="$PROJECT_DIR$/../YandexContest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../YandexContest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../YandexContest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../YandexContest/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,42 +13,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../YandexContest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ihbYc6ymUa1fmYWxF2rXc0oRgi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ivanlysikov/PycharmProjects/YandexContest/2(B)A"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ivanlysikov/PycharmProjects/YandexContest/2(B)A&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../YandexContest/2(B)A" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(B)D" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)C" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)B" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)A" />
+      <recent name="$PROJECT_DIR$/2(B)A" />
+      <recent name="$PROJECT_DIR$/1(B)D" />
+      <recent name="$PROJECT_DIR$/1(A)C" />
+      <recent name="$PROJECT_DIR$/1(A)B" />
+      <recent name="$PROJECT_DIR$/1(A)A" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../YandexContest/2(B)A" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(B)D" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)C" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)B" />
-      <recent name="$PROJECT_DIR$/../YandexContest/1(A)A" />
+      <recent name="$PROJECT_DIR$/2(B)A" />
+      <recent name="$PROJECT_DIR$/1(B)D" />
+      <recent name="$PROJECT_DIR$/1(A)C" />
+      <recent name="$PROJECT_DIR$/1(A)B" />
+      <recent name="$PROJECT_DIR$/1(A)A" />
     </key>
   </component>
   <component name="RunManager">
@@ -143,40 +142,6 @@
       <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="YandexContest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="YandexContest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -218,7 +183,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -232,7 +209,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../YandexContest/main.py</url>
+          <url>file://$PROJECT_DIR$/main.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
